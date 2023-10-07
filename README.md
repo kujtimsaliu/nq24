@@ -4,7 +4,8 @@
 
 This is a simple Gym Management Application created using Python and PyQt5. It allows gym owners or administrators to manage client information, including names, payment details, and more.
 
-![Application Screenshot](screenshot.png)
+![nq24](https://github.com/kujtimsaliu/nq24/assets/36280465/fd7557f5-f04f-4b6c-b995-ed332b53b113)
+
 
 ## Features
 
